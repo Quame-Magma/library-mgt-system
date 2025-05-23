@@ -15,9 +15,6 @@ This Library Management System is a comprehensive relational database designed t
 ## ERD (Entity Relationship Diagram)
 
 
-
-*Note: Replace with your actual ERD screenshot or link*
-
 ## Setup Instructions
 
 1. **Prerequisites**:
